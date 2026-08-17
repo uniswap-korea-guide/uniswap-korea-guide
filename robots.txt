@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uniswap-korea-guide.vercel.app/sitemap.xml

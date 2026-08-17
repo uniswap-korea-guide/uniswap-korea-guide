@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://uniswap-korea-guide.vercel.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-use/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-wallet/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-wallet-connect/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-login/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-swap/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-swap-error/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-fees/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-slippage/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-liquidity/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-v3/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-v4/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-gas-fee/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/uniswap-support/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/about/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://uniswap-korea-guide.vercel.app/disclaimer/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
